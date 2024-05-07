@@ -13,3 +13,7 @@ Test deploy
 
 ##How To Contribute 	
 Test contribute
+
+###Copyright
+
+2024 GIT.Training
