@@ -1,6 +1,7 @@
 # Starter Web Repo
 Test project
 This repository is for showing how Git and GitHub work
+Adding new changes for rebasing
 ##Introduction
 Test introduction
 New test
