@@ -6,7 +6,7 @@ Test people CBALTAZAR@test.com @testuser
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	Everibody
     <name>
 
 # TECHNOLOGY COLOPHON
