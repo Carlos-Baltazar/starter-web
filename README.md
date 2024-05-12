@@ -2,6 +2,7 @@
 Test project
 This repository is for showing how Git and GitHub work
 Adding new changes for rebasing
+More changes from myfeature branch too
 ##Introduction
 Test introduction
 New test
