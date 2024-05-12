@@ -1,0 +1,122 @@
+[33mcommit cebd084cb6d5eb39a8846e1a497eaf185fc91ab0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Mon May 6 19:14:28 2024 -0600
+
+    Changing title of HTML file
+
+[33mcommit 36cb532609f54c4beb91e98e980a66f394710f18[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Sun May 5 22:52:03 2024 -0600
+
+    Updating repo with changes from comprare section
+
+[33mcommit 11ba69c8bfd294580de25241714c4c1fbd5b4d08[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Sun May 5 21:28:28 2024 -0600
+
+    Adding new text
+
+[33mcommit 5a952691dbcbd0f502d17f417cd5722a6bd5bed6[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Sun May 5 21:27:19 2024 -0600
+
+    Adding new section: Deployment
+
+[33mcommit 08739a100b5a2ec531cdd52c5b2ce833e5c63e3f[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Sun May 5 21:25:36 2024 -0600
+
+    Adding new section: Deployment
+
+[33mcommit b3737223952d11347ba030ee69cac18dd295f0f4[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Sun May 5 21:23:27 2024 -0600
+
+    Adding README file
+
+[33mcommit 2b7f07da62042b57e2a17f221a6c697711fd5db4[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Wed May 1 17:22:10 2024 -0600
+
+    Adding git ignore file to ignore unwanted files
+
+[33mcommit 10b014b1f1c99a8cb842db4aba72a5b35747944e[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Tue Apr 30 17:18:05 2024 -0600
+
+    Deleting files
+
+[33mcommit c3bdd093ababf411c085bd7ec8b9cd49ab405b8f[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Thu Apr 4 16:02:11 2024 -0600
+
+    Returning level 2 file to level 2
+
+[33mcommit 3e9b76290f55164c276b930ba8826a19de936d4e[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Thu Apr 4 16:00:27 2024 -0600
+
+    Moving file to level 3 from level 2
+
+[33mcommit 0a931dfa206d4615066abb044f7bb55774943d96[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Thu Apr 4 15:57:22 2024 -0600
+
+    Renaming level 2 file
+
+[33mcommit 56eab9b79cf12862d8e35547a8e913eec05830e8[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Thu Apr 4 15:55:25 2024 -0600
+
+    Renaming level3 file
+
+[33mcommit caa142ef3848dfc09d7713e43cac1bbe9a62f9bb[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Thu Apr 4 14:42:01 2024 -0600
+
+    Adding several files recursively
+
+[33mcommit 6f4187e06067c6ca5060b5eed5b6d5f2e5abf860[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Thu Apr 4 14:11:46 2024 -0600
+
+    Adding new file
+
+[33mcommit 80dcb0f5b582f11719de4390a21e8970172a5e38[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Wed Apr 3 21:04:53 2024 -0600
+
+    Adding more text
+
+[33mcommit fc15bb25bc031e3b38730b7a0b0df91c82a4d39b[m
+Author: Carlos Baltazar <carlos.baltazar@unosquare.com>
+Date:   Wed Apr 3 20:51:21 2024 -0600
+
+    My first commit!
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
